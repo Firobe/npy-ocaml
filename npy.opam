@@ -13,7 +13,6 @@ install: []
 remove:  []
 
 depends: [
-  "camlzip"
   "dune" {build}
   "ocaml" {>= "4.06"}
 ]
